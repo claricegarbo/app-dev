@@ -91,9 +91,10 @@
  - &nbsp;&nbsp; **3D Director:** &nbsp;&nbsp;&nbsp; Rin Yamamoto
  - &nbsp;&nbsp; **Sound Director:** &nbsp;&nbsp;&nbsp; Yota Tsuruoka
  - &nbsp;&nbsp; **Music:** &nbsp;&nbsp;&nbsp; Evan Call
+ㅤ
  
  
- ㅤ
+ 
 ㅤ
  
 --------------
@@ -117,7 +118,9 @@
 | &nbsp;&nbsp; Dietfried Bonginvilla &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 | &nbsp;&nbsp; Gilbert Bongainvilla &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
 | &nbsp;&nbsp; Roland &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
-
+ㅤ
+ 
+ 
  
 ㅤ
  
@@ -133,11 +136,9 @@
  - Starting October 2, moviegoers will receive a booklet with the short story Gilbert Bougainvillea and the Fleeting Dream.
  - Flashbacks from **"A Loved One Will Always Watch Over You"** are seen; 
     -  The letters seven-year-old Ann Mongolia recieved since the death of her mother, Daisy's maternal great-grandmother.
- 
- 
 ㅤ
  
-
+ 
  
 ㅤ
  
